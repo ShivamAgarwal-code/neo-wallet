@@ -20,7 +20,7 @@ const (
 var ctx storage.Context
 
 type ErrorCodes int
-
+// this is a go file
 const (
 	GAS_LIMIT_EXCEEDED ErrorCodes = iota + 1
 )
