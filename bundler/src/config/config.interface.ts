@@ -6,3 +6,5 @@ export type ChainInfoType = {
   privateKey: string;
   tokenScriptHash: string;
 };
+
+// this is a bundler file
